@@ -1,0 +1,10 @@
+# Fichiers à ignorer
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+currency_tracker.log
+currency_history.csv
