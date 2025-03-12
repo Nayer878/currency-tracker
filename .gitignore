@@ -1,5 +1,6 @@
 # Fichiers à ignorer
 .env
+currency-tracker-*.json
 __pycache__/
 *.pyc
 *.pyo
